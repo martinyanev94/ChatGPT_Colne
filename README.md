@@ -3,7 +3,7 @@
 
 This project is a simple web application that uses the OpenAI GPT-3 API to generate responses to user inputs, creating a chatbot-like experience. The project is built using Flask for the backend and HTML/CSS/JS for the frontend.
 
-#Requirements
+# Requirements
 
 To run this project, you will need to have the following:
 
@@ -11,7 +11,7 @@ Python 3.x
 Flask
 OpenAI API key
 
-#Installation
+# Installation
 
 Clone the repository to your local machine.
 Install the required packages using pip:
@@ -22,10 +22,10 @@ Copy code
 python app.py
 Open your web browser and go to http://localhost:5000/ to use the chatbot.
 
-#Usage
+# Usage
 
 Once you have the project running, you can start chatting with the chatbot by typing in the input box and pressing the "Submit" button. The chatbot will respond with a generated message based on the input you provided.
 
-#Credits
+# Credits
 
 This project was created by Martin Yanev. It uses the OpenAI API to generate responses.
