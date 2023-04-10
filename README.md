@@ -15,12 +15,22 @@ OpenAI API key
 
 Clone the repository to your local machine.
 
+
+* You will need to install
+ * $ python3 -m venv myenv
+* To activate the virtual environment, run the command:
+ * On Windows:
+ * $ myenv\Scripts\activate.bat
+ * On macOS or Linux:
+ * $ source myenv/bin/activate
 * Install the required packages using pip:
   * pip install flask openai
 * Replace <API_TOKEN> in app.py with your OpenAI API key.
 * Start the server:
   * python app.py
 * Open your web browser and go to http://localhost:5000/ to use the chatbot.
+
+
 
 ## Usage
 
