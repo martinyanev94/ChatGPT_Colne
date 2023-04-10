@@ -1,3 +1,11 @@
+"""
+file name: main.py
+Description: Uses Flask framework to access ChatGPT API via /get method. 
+__copyright__ = "Copyright 2023, MartinYTech"
+__author__=  Martin Yanev
+__modified__= 09/04/2023
+"""
+
 from flask import Flask, request, render_template
 import openai
 
