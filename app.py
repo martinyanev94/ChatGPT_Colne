@@ -1,5 +1,5 @@
 """
-file name: main.py
+file name: app.py
 Description: Uses Flask framework to access ChatGPT API via /get method. 
 __copyright__ = "Copyright 2023, MartinYTech"
 __author__=  Martin Yanev
