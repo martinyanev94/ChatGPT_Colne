@@ -24,6 +24,8 @@ You will need to install:
   * $ myenv\Scripts\activate.bat
   * On macOS or Linux:
   * $ source myenv/bin/activate
+
+
 * Install the required packages using pip:
   * pip install flask openai
 * Replace <API_TOKEN> in app.py with your OpenAI API key.
